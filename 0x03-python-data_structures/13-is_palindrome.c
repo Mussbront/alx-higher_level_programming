@@ -1,5 +1,5 @@
-# include <stdlib.h>
-# include "lists.h"
+#include <stdlib.h>
+#include "lists.h"
 
 /**
   * _palindrome - Checks if linked list is palindrome
